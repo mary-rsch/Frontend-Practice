@@ -4,7 +4,7 @@ This repository contains free projects that i develop from various sites across 
 
 ## Projects
 
-- Project 1: Qr-Code component.
+- **[Qr-Code component](https://frontend-practice-qr-code-component.vercel.app)**
 
 ## How to Use
 
